@@ -19,4 +19,4 @@ Useful for configuration management, logging, database connections, or any scena
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/python-singleton.git
+git clone https://github.com/ZohaKhawaja/python-singleton.git
